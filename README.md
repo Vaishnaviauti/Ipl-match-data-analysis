@@ -45,3 +45,8 @@ Match Result Breakdown (Win / Loss / Tie)
 Matches Won by Teams
 Team vs Team Match Comparisons
 Winning Trends Across Seasons
+
+
+
+
+source:- https://github.com/Vaishnaviauti/Ipl-match-data-analysis/blob/main/Ipl%20match%20analysis.jpg
